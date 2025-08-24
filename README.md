@@ -5,13 +5,13 @@
 <br clear="both">
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNnYXpvMGp4MGE3Zm11ZDlsYzFkeDU5em95emozbzdyejVrbGg3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9T4bzIHzqZQNFSM2hl/giphy.gif"  />
+<img align="right" height="210" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNnYXpvMGp4MGE3Zm11ZDlsYzFkeDU5em95emozbzdyejVrbGg3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9T4bzIHzqZQNFSM2hl/giphy.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashyune&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashyune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashyune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
