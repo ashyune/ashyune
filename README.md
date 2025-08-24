@@ -1,21 +1,21 @@
-<br clear="both">
-
-<h2 align="left">Hello There! I'm Ashmita :)</h2>
+<h1 align="left">Hello There! I'm Ashmita :)</h1>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashyune&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNnYXpvMGp4MGE3Zm11ZDlsYzFkeDU5em95emozbzdyejVrbGg3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9T4bzIHzqZQNFSM2hl/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashyune&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashyune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzNnYXpvMGp4MGE3Zm11ZDlsYzFkeDU5em95emozbzdyejVrbGg3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9T4bzIHzqZQNFSM2hl/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,8 +43,8 @@
 
 ###
 -->
-<br clear="both">
 
+<!--
 <img src="https://raw.githubusercontent.com/ashyune/ashyune/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
