@@ -4,15 +4,15 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashyune&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ashyune&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="200" alt="stats graph"  /> -->
   <img align="right" height="150" src="https://media.tenor.com/QPgguxcy_pIAAAAj/pixelstar-pixel.gif"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashyune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashyune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  />-->
 </div>
 
 ###
 
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
